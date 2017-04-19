@@ -10,7 +10,7 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 
 ### 简单实用的实例
 这里简单说明下脚本中常用符号代表的含义：
->
+```
 # 号代表 Win 键；
 ! 号代表 Alt 键；
 ^ 号代表 Ctrl 键；
@@ -18,13 +18,13 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 :: 号(两个英文冒号)起分隔作用；
 run，非常常用 的 AHK 命令之一;
 ; 号代表 注释后面一行内容；
-
+```
 run它的后面是要运行的程序完整路径（比如我的Sublime的完整路径是：D:\Program Files (x86)\Sublime Text 3\sublime_text.exe）或网址。为什么第一行代码只是写着“notepad”，没有写上完整路径？因为“notepad”是“运行”对话框中的命令之一。
 如果你想按下“Ctrl + Alt + Shift + Win + Q”（这个快捷键真拉风啊。(￣▽￣)）来启动 QQ 的话，可以这样写：
 >^!+#q::run QQ所在完整路径地址。
 
-.
->
+
+```
 温馨提示： 以下几个系统默认的 Win 快捷键：
 Win + E：打开资源管理器；
 Win + D：显示桌面；
@@ -34,7 +34,7 @@ Win + L：锁定电脑；
 Win + PauseBreak：打开系统属性对话框;
 Win + Q: 本地文件/网页等搜索;
 Win + U: 打开控制面板－轻松使用设置中心;
-
+```
 
 
 ## 题外话： 折腾之美
