@@ -10,6 +10,8 @@
 
 - sublime 快捷键
 - sublime 自定义 `code snippet`
+- [Sublime Text 3 配置和使用方法](https://www.zybuluo.com/king/note/47271) : 多技巧点、目录
+- 像 办公室 电脑那样 自动提示 mdl 等， 这样就可以 按回车了。
 
 ### 自定义sublime代码片段   （sublime 自定义 `code snippet`）
 [一个前端程序猿的Sublime Text3的自我修养](http://blog.guowenfh.com/2015/12/26/SublimeText/#NO-1-AdvancedNewFile：快速新建文件。) : ~~[已废链接](http://guowenfh.github.io/2015/12/26/SublimeText/ "http://guowenfh.github.io/2015/12/26/SublimeText/")~~
