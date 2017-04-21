@@ -33,7 +33,7 @@ Linux：
 ## [Sublime Column Selection （Sublime 列编辑进阶）](http://maider.blog.sohu.com/303735928.html)
 背景：
 某些时候，在Sublime中使用列编辑将大大提高效率。例如，我需要将每行的前七个字符都去掉，便可以使用通过列编辑模式，选中每行的前七个字符并删去。如下图所示：
-![Alt text](http://sucimg.itc.cn/sblog/j31face692b36ae0bfe99fceca81f871c "列模式 去掉 每行的前七个字符")
+![http://sucimg.itc.cn/sblog/j31face692b36ae0bfe99fceca81f871c](http://sucimg.itc.cn/sblog/j31face692b36ae0bfe99fceca81f871c "列模式 去掉 每行的前七个字符")
 
 
 基本篇：
