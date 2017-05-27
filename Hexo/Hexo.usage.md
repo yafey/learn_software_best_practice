@@ -2,6 +2,9 @@
 - 使用 Hexo + Next 搭建静态博客
 https://segmentfault.com/a/1190000004076989
 
+- 将 Npm 的源替换成淘宝的源
+https://segmentfault.com/a/1190000004444283
+
 - hexo你的博客
 http://ibruce.info/2013/11/22/hexo-your-blog/
 
